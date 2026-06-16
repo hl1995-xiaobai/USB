@@ -1,0 +1,108 @@
+User/USB_Host/ch32v30x_usbfs_host.o: \
+ ../User/USB_Host/ch32v30x_usbfs_host.c \
+ ../User/USB_Host/usb_host_config.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/Debug/debug.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/Core/core_riscv.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/User/system_ch32v30x.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/User/ch32v30x_conf.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_adc.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_bkp.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_can.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_crc.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_dac.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_dbgmcu.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_dma.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_exti.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_flash.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_fsmc.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_gpio.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_i2c.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_iwdg.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_pwr.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_rcc.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_rtc.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_sdio.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_spi.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_tim.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_usart.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_wwdg.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/User/ch32v30x_it.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_misc.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_usb.h \
+ ../User/USB_Host/ch32v30x_usbfs_host.h ../User/USB_Host/usb_host_hid.h \
+ ../User/USB_Host/usb_host_hub.h ../User/USB_Host/app_km.h \
+ d:/git_hl/USB/HOST_KM_BRIDGE/User/mouse_report.h
+
+../User/USB_Host/usb_host_config.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/Debug/debug.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/Core/core_riscv.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/User/system_ch32v30x.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/User/ch32v30x_conf.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_adc.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_bkp.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_can.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_crc.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_dac.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_dbgmcu.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_dma.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_exti.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_flash.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_fsmc.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_gpio.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_i2c.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_iwdg.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_pwr.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_rcc.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_rtc.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_sdio.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_spi.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_tim.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_usart.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_wwdg.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/User/ch32v30x_it.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_misc.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/Peripheral/inc/ch32v30x_usb.h:
+
+../User/USB_Host/ch32v30x_usbfs_host.h:
+
+../User/USB_Host/usb_host_hid.h:
+
+../User/USB_Host/usb_host_hub.h:
+
+../User/USB_Host/app_km.h:
+
+d:/git_hl/USB/HOST_KM_BRIDGE/User/mouse_report.h:
